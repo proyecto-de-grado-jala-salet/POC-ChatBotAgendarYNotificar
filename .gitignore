@@ -1,0 +1,47 @@
+# Visual Studio y archivos de configuración
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación y binarios
+bin/
+obj/
+out/
+
+# Paquetes NuGet
+tools/
+*.nupkg
+project.lock.json
+packages/
+
+# Configuración y logs
+appsettings.json
+appsettings.*.json
+log/
+*.log
+
+# Archivos de publicación
+publish/
+*.publish.xml
+
+# Archivos de depuración
+*.pdb
+*.mdb
+
+# Archivos de Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Archivos generados por MacOS
+ds_store
+.DS_Store
+
+credentials.json
+
+# Environment configuration files
+.env
+.env.local
+appsettings.json
+appsettings.*.json

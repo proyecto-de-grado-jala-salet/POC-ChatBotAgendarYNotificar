@@ -1,0 +1,6 @@
+@POC_ChatBotAgendarYNotificar_HostAddress = http://localhost:5150
+
+GET {{POC_ChatBotAgendarYNotificar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
